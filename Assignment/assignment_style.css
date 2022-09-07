@@ -1,0 +1,59 @@
+body {
+    background-image: url("background.webp");
+    margin-top: 10px;
+    background-size: cover;
+}
+
+#home{
+margin-top: 4.5px;
+margin-right: 15px;
+font-size:xx-large;
+}
+
+.nav-link:hover{
+    font-size: larger;
+}
+
+.navbar-brand:hover{
+    font-size: xx-large;
+}
+
+i{
+height: 24px;
+}
+
+#create {
+    float: left;
+    margin-inline: 50px;
+}
+
+#old {
+    float: right;
+    margin-inline: 50px;
+}
+
+.col-3 {
+    margin-inline: 60px;
+    margin-bottom: 60px;
+    background-color:hsla(248, 17%, 91%, 0.759);
+}
+
+.col-3:hover {
+    background-color: white;
+}
+
+.card-img-top {
+    margin-top: 8px;
+}
+
+#read_more:hover {
+    background-color: green;
+}
+
+#create:hover {
+    font-size: large;
+}
+
+#old:hover {
+    font-size: large;
+}
